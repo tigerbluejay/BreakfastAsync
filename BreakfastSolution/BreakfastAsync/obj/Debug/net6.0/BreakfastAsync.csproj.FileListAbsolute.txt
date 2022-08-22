@@ -1,0 +1,15 @@
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\bin\Debug\net6.0\BreakfastAsync.exe
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\bin\Debug\net6.0\BreakfastAsync.deps.json
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\bin\Debug\net6.0\BreakfastAsync.runtimeconfig.json
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\bin\Debug\net6.0\BreakfastAsync.dll
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\bin\Debug\net6.0\BreakfastAsync.pdb
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.csproj.AssemblyReference.cache
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.AssemblyInfoInputs.cache
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.AssemblyInfo.cs
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.dll
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\refint\BreakfastAsync.dll
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.pdb
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\BreakfastAsync.genruntimeconfig.cache
+C:\Users\josem\source\BreakFastAsync\BreakfastSolution\BreakfastAsync\obj\Debug\net6.0\ref\BreakfastAsync.dll
